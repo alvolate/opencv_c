@@ -1,4 +1,4 @@
-#Motion Detection Project
+# Motion Detection Project
 
 OpenCV, C++
 
